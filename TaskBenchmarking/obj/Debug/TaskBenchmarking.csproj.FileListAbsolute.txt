@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2013\Projects\Blog\TaskBenchmarking\bin\Debug\TaskBenchmarking.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\Blog\TaskBenchmarking\bin\Debug\TaskBenchmarking.exe
+c:\users\alex\documents\visual studio 2013\Projects\Blog\TaskBenchmarking\bin\Debug\TaskBenchmarking.pdb
+c:\users\alex\documents\visual studio 2013\Projects\Blog\TaskBenchmarking\obj\Debug\TaskBenchmarking.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\Blog\TaskBenchmarking\obj\Debug\TaskBenchmarking.exe
+c:\users\alex\documents\visual studio 2013\Projects\Blog\TaskBenchmarking\obj\Debug\TaskBenchmarking.pdb

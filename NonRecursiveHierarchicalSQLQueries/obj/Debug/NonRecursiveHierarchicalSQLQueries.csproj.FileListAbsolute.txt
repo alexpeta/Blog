@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Blog\NonRecursiveHierarchicalSQLQueries\bin\Debug\NonRecursiveHierarchicalSQLQueries.exe.config
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Blog\NonRecursiveHierarchicalSQLQueries\obj\Debug\NonRecursiveHierarchicalSQLQueries.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Blog\NonRecursiveHierarchicalSQLQueries\bin\Debug\NonRecursiveHierarchicalSQLQueries.exe
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Blog\NonRecursiveHierarchicalSQLQueries\bin\Debug\NonRecursiveHierarchicalSQLQueries.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Blog\NonRecursiveHierarchicalSQLQueries\obj\Debug\NonRecursiveHierarchicalSQLQueries.exe
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Blog\NonRecursiveHierarchicalSQLQueries\obj\Debug\NonRecursiveHierarchicalSQLQueries.pdb

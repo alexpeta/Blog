@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.20623.1 VSUPREVIEW
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskBenchmarking", "TaskBenchmarking\TaskBenchmarking.csproj", "{779680C2-26A9-432A-B027-38597DE88BDB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{99E344EB-D7C0-48B7-948D-7C70FE5A9D24}"
+	ProjectSection(SolutionItems) = preProject
+		Performance1.psess = Performance1.psess
+		Performance2.psess = Performance2.psess
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonRecursiveHierarchicalSQLQueries", "NonRecursiveHierarchicalSQLQueries\NonRecursiveHierarchicalSQLQueries.csproj", "{9413F022-2B40-479D-A0C7-72D2D7264DB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{779680C2-26A9-432A-B027-38597DE88BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779680C2-26A9-432A-B027-38597DE88BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779680C2-26A9-432A-B027-38597DE88BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779680C2-26A9-432A-B027-38597DE88BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9413F022-2B40-479D-A0C7-72D2D7264DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9413F022-2B40-479D-A0C7-72D2D7264DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9413F022-2B40-479D-A0C7-72D2D7264DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9413F022-2B40-479D-A0C7-72D2D7264DB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
